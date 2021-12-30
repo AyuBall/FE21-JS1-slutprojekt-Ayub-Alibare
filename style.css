@@ -1,0 +1,27 @@
+div{
+    border: 2px solid;
+    padding-top: 3rem;
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-flow: column wrap;
+    text-align: center;
+
+}
+
+body{
+background-color: rgb(91, 206, 245);
+}
+
+.fivedays img{
+width: 50px;
+
+}
+
+.fivedays div{
+    width: 100%;
+    margin-top: 0px;
+    height: 35px;
+}
+
